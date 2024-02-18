@@ -1,4 +1,4 @@
 # Complexidade
-A tarea foi extensa pero coa axuda das pistas a documentacion e buscar un pouco en google se logra facilmente faceles menos alguns apartados que deixei en blanco porque non logrei facer que funcionasen
+A tarefa tuvo unha loxitude moderada e facil se seguias as pistas facilitabanse moito pero eu tiven problemas coa 2 e a 3. Na 2ª coa parte de linux en primer lugar non me deixaba procededer coa instalacion e logo no me deixaba desplegar o tomcat. E a 3ª a pesar de ter todo o codigo funcional e o certificado non funcionaba o https 
 # Comprendemento
-Os dous primeiros apartados foron bastante extenso o primeiro por a cantidade de documentacion e o segundo pola cantidade de apartados que tiña os ultimos apartados era como un paso do 2 exercicio pero ben ao final
+O segundo exercicio foi moi extenso polo de ter que cambiar de maquina virtual pero coa documentacio faise facil
